@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.right a{
+    margin-right: 20px;
+    padding: 10px;
+}
+.container a {
+    margin-left : 5px;
+}
+.right i {
+    font-size: 25px;
+    margin-left: 5px;
+    color : white
+}
